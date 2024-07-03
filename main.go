@@ -18,5 +18,6 @@ func main() {
 	//operation.CheckSystemProcesses()
 	//operation.CheckNetworkConnections()
 	//operation.CheckRecentFiles()
-	operation.CheckSystemServices()
+	//operation.CheckSystemServices()
+	operation.CheckSystemUsersAndGroups()
 }
